@@ -1,0 +1,21 @@
+{
+	"student":[
+		{
+			"_id":"abc",
+			"_class":"student",
+			"person":{
+				"_class":"simplePerson",
+			},
+			
+		},
+		{
+			"_id":"abcd",
+			"_class":"student",
+			"person":{
+				"_class":"simplePerson",
+			},
+			
+		}
+		
+	]
+}
